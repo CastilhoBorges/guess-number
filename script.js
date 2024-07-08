@@ -54,7 +54,7 @@ document.querySelector(".check").addEventListener("click", function () {
 
     // Quando o player ganha
   } else if (guess === secretNumber) {
-    displayMessage("Correct Number🥊");
+    displayMessage("Correct Number🥊, Augusto Castilho thanks you 😁😘😝");
     document.querySelector(".number").textContent = secretNumber;
     backgroundColor("#60b347");
 
